@@ -8,4 +8,4 @@ cd ubuntu-in-termux
 chmod +x ubuntu.sh
 ./ubuntu.sh -y
 cd ~
-echo "\e[32m Now to login to ubuntu type [./ubuntu-in-termux/startubuntu.sh]"
+echo -e "\e[32m Now to login to ubuntu type [./ubuntu-in-termux/startubuntu.sh]"
