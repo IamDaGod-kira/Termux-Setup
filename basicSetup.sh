@@ -1,4 +1,4 @@
-echo "\e[32m[*] Basic Setup"
+echo -e "\e[32m[*] Basic Setup"
 apt update
 apt upgrade
 pkg install python git clang nano proot-distro
