@@ -1,4 +1,4 @@
-echo("[*] Basic Setup")
+echo "[*] Basic Setup"
 apt update
 apt upgrade
 pkg install python git clang nano proot-distro
