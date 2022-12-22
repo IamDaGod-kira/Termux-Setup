@@ -1,4 +1,4 @@
-cd $
+cd
 pkg install git
 git clone https://github.com/Ublimjo/Termux-login
 cd Termux-login
